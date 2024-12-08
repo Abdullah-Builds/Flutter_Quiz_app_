@@ -16,4 +16,4 @@ This is a simple, user-friendly **Quiz App** built using Flutter. The app allows
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   https://github.com/Abdullah-Builds/Flutter_Quiz_app_.git
